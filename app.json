@@ -176,8 +176,7 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     }
   ],
-   "name": "JisooX",
-   "repository": "https://github.com/ferikunn/JisooX",
-   "success_url": "https://telegram.dog/JisoXRobot",
-   "logo": "https://telegra.ph/file/c4c66449d0dfcf5f24b50.jpg"
-}
+   "name": "Ndy-Userbot",
+   "repository": "https://github.com/Sapasihlu/Ndy-Userbot",
+   "success_url": "https://telegram.dog/NdyManageBot",
+   "logo": "https://telegra.ph/file/17b3931137d81cf829686.jpg
