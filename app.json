@@ -144,7 +144,7 @@
          "value": "True"
       },
       "STRICT_GMUTE": {
-         "description": "Enforce gmute across new groups as well as old groups. When a gmutes user talks, he will be muted",\
+         "description": "Enforce gmute across new groups as well as old groups. When a gmutes user talks, he will be muted",
          "required": false,
          "value": "True"
       }
